@@ -16,3 +16,5 @@ Er zijn ook een paar de ik met de hulp van iemand waarmee ik samenwerkte heb gem
 - mineblock.py
 - login.py
 - user.py
+
+De code kan je runnen met goodchain.py
