@@ -79,6 +79,7 @@ class TxBlock (CBlock):
                 return False       
         return True
     
+    # Bij de onderstaande functie hebben we ervoor gezorgd dat de mining time een bepaald aantal duurt heeft, in dit geval tussen de 10 en 20 seconde. We hebben hierbij gezamenlijk bedacht wat het beste kon werken
     def mine(self, leading_zero):
         digest = hashes.Hash(hashes.SHA256(), backend=default_backend())
         digest.update(bytes(str(self.data), 'utf-8'))
