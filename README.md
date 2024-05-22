@@ -1,20 +1,21 @@
 # good-chain
 
-Dit is een geclonede repository van een project waaraan ik werkte. Het programma simuleert een blockchain programma waarin je bijvoorbeeld bitcoin kan minen.
+Dit is een gekloonde repository van een project waaraan ik werkte. Het programma simuleert een blockchain waarin je bijvoorbeeld bitcoin kunt minen.
 
-De files die ik heb geschreven zijn:
-- blockinfo.py
-- canceltransaction.py
-- checkchain.py
-- deletetransaction.py
-- edittransaction.py
-- notifications.py
-- transactionhistory.py
+De bestanden die ik heb geschreven zijn:
 
-Er zijn ook een paar de ik met de hulp van iemand waarmee ik samenwerkte heb gemaakt, dat licht ik verder toe waar nodig in de onderstaande files:
-- blockchain.py
-- mineblock.py
-- login.py
-- user.py
+blockinfo.py
+canceltransaction.py
+checkchain.py
+deletetransaction.py
+edittransaction.py
+notifications.py
+transactionhistory.py
+Er zijn ook een paar bestanden die ik samen met iemand anders heb gemaakt, dat licht ik verder toe waar nodig in de onderstaande bestanden:
 
-De code kan je runnen met goodchain.py
+blockchain.py
+mineblock.py
+login.py
+user.py
+
+Je kunt de code uitvoeren met goodchain.py.
